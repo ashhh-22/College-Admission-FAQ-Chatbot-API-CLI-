@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed May 14 01:04:52 2025
 
-@author: HP
-"""
 
 import requests
 
@@ -31,3 +27,4 @@ while True:
     except Exception as e:
         print("Error connecting to server:", e)
         break
+
