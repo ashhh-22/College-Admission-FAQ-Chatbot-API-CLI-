@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed May 14 00:55:26 2025
 
-@author: HP
-"""
 from flask import Flask, request, jsonify
 import threading
 import time
@@ -88,4 +84,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
